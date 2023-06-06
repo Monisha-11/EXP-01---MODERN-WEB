@@ -119,7 +119,7 @@ Visual Studio Code.
 
 ### CSS CODE:
 
-```
+```java
 *{
     margin: 0;
     padding: 0;
